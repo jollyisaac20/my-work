@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+    .news-letter{
+        width: 30%;
+    }
+}
+
+.bg-images{
+    background-image: url(/ASSETS/dev-image.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
